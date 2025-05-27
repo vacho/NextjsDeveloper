@@ -1,4 +1,2 @@
-Readme
-adasd
-asdasd
-asdasd
+# NextjsDeveloper
+Nextjs commands and code snipets
