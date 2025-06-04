@@ -18,3 +18,15 @@ npm install @clerk/nextjs
 # Create your first user
 npm run dev
 ```
+
+Shadcn: Accessible components and a code distribution platform.
+---
+Useful components: button, dialog, alert, checkbox, date picker, Drawer, etc...
+
+To get into your project
+- Follow the instruction into https://ui.shadcn.com/docs/installation/next
+
+```bash
+# Install
+npx shadcn@latest init
+```
