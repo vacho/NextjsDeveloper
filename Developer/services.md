@@ -21,7 +21,7 @@ npm run dev
 
 Shadcn: Accessible components and a code distribution platform.
 ---
-Useful components: button, dialog, alert, checkbox, date picker, Drawer, etc...
+Useful components: button, dialog, alert, checkbox, date picker, Drawer, DropdownMenu, DarkMode etc...
 
 To get into your project
 - Follow the instruction into https://ui.shadcn.com/docs/installation/next
@@ -29,4 +29,7 @@ To get into your project
 ```bash
 # Install
 npx shadcn@latest init
+
+# Add some component to our project
+npx shadcn@latest add <component name>
 ```
