@@ -38,15 +38,3 @@ NEON: Serverles Postgress
 ---
 https://neon.com/
 
-
-Prisma: A js based ORM
----
-https://www.prisma.io/
-```bash
-# Install for dev environment
-npm install prisma --save-dev
-# Install for production environment
-npm install @prisma/client
-# Start prisma
-npx prisma init
-```
