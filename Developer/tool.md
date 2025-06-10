@@ -10,6 +10,8 @@ Recomended plugins
 - XML: To pretty format and show.
 - Reactjs code snippets
 - ES7+ React/Redux/React-Native snippets: An autocomplete code
+- Prisma
+A prisma ORM code highlight
 ```bash
 rafce: Generate a code with a basic function to show content.
 ```
