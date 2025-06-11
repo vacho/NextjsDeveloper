@@ -34,7 +34,3 @@ npx shadcn@latest init
 npx shadcn@latest add <component name>
 ```
 
-NEON: Serverles Postgress 
----
-https://neon.com/
-

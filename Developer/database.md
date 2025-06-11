@@ -18,3 +18,7 @@ To defile a schema write this into prisma/schema.prisma
 https://www.prisma.io/docs/orm/prisma-schema/overview
 
 
+NEON: Serverles Postgress 
+---
+https://neon.com/
+
