@@ -34,3 +34,12 @@ npx shadcn@latest init
 npx shadcn@latest add <component name>
 ```
 
+React Hot Toast: Notification
+---
+https://react-hot-toast.com/
+```bash
+# Install
+npm i react-hot-toast
+
+```
+
